@@ -3,6 +3,7 @@
 ## Resources 
 1. https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
 2. https://www.cs.utexas.edu/users/fussell/courses/cs310h/lectures/Lecture_10-310h.pdf
+3. https://www.jmeiners.com/lc3-vm/
 
 ## Starter Notes
 - Using max 16-bit = 2^16 = 65536 instructions --> Can only store 128KB 😔
